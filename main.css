@@ -6,3 +6,13 @@ body {
 h1 {
 	text-align: center;
 }
+
+.menu {
+	border: 7px yellow dotted;
+	border-top: hidden;
+	background-color: darkblue;
+}
+
+.menu a {
+	font-size: 30px;
+}
