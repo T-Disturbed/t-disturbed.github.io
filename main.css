@@ -5,12 +5,14 @@ body {
 
 h1 {
 	text-align: center;
+	margin: 0px;
 }
 
 .menu {
 	border: 7px yellow dotted;
 	border-top: hidden;
 	background-color: darkblue;
+	border-radius: 10px;
 }
 
 .menu a {
