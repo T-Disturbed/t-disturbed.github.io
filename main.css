@@ -12,9 +12,12 @@ h1 {
 	border: 7px yellow dotted;
 	border-top: hidden;
 	background-color: darkblue;
-	border-radius: 10px;
+	text-align: center;
 }
 
 .menu a {
 	font-size: 30px;
+	text-decoration: none;
+	color: white;
+	text-shadow: 2px -3px black;
 }
