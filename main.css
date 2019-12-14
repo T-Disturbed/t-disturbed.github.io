@@ -21,3 +21,29 @@ h1 {
 	color: white;
 	text-shadow: 2px -3px black;
 }
+
+.bigbox {
+	border: 7px yellow dotted;
+	background-color: darkblue;
+	text-align: left;
+	margin-top: 25px;
+}
+
+.bigbox p {
+	font-size: 15px;
+	font-family: arial;
+	padding-left: 40px;
+}
+
+#welcome {
+	color: red;
+	text-decoration: underline;
+}
+
+.TOC {
+	border: 7px yellow dotted;
+	background-color: darkblue;
+	text-align: left;
+	width: 200px;
+	top: 100px ;
+}
